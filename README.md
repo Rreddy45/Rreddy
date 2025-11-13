@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Raghavendra Reddy</h1>
+[<h1 align="center">Hi there 👋, I'm Raghavendra Reddy</h1>
 <h3 align="center">Electronics & Communication Engineering Graduate (2021–2025)</h3>
 
 <p align="center">
@@ -57,3 +57,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=34F7F1&center=true&vCenter=true&width=600&lines=Digital+Electronics;Verilog+%7C+SystemVerilog+Learner;UVM+Learner)
