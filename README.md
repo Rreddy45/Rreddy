@@ -6,16 +6,16 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raghavendrareddy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=raghavendra-reddy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghavendrareddy&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavendrareddy&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raghavendra-reddy&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavendra-reddy&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavendrareddy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavendra-reddy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ---
